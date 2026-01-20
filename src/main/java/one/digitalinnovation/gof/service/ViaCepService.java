@@ -12,7 +12,7 @@ import one.digitalinnovation.gof.model.Endereco;
  * 
  * @see <a href="https://spring.io/projects/spring-cloud-openfeign">Spring Cloud OpenFeign</a>
  * @see <a href="https://viacep.com.br">ViaCEP</a>
- * 
+ * --alterações por Diego Rapichan
  * @author falvojr
  */
 @FeignClient(name = "viacep", url = "https://viacep.com.br/ws")
